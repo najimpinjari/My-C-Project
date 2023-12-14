@@ -1,0 +1,7 @@
+E:\C# project\1\bank account program\bin\Debug\bank account program.exe.config
+E:\C# project\1\bank account program\bin\Debug\bank account program.exe
+E:\C# project\1\bank account program\bin\Debug\bank account program.pdb
+E:\C# project\1\bank account program\obj\Debug\bank account program.csproj.AssemblyReference.cache
+E:\C# project\1\bank account program\obj\Debug\bank account program.csproj.CoreCompileInputs.cache
+E:\C# project\1\bank account program\obj\Debug\bank account program.exe
+E:\C# project\1\bank account program\obj\Debug\bank account program.pdb
