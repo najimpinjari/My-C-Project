@@ -1,0 +1,2 @@
+E:\C# project\1\File Reader\obj\Debug\File Reader.csproj.AssemblyReference.cache
+E:\C# project\1\File Reader\obj\Debug\File Reader.csproj.CoreCompileInputs.cache
