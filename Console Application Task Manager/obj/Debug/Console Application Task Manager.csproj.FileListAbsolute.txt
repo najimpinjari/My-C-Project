@@ -1,0 +1,7 @@
+E:\C# project\1\Console Application Task Manager\obj\Debug\Console Application Task Manager.csproj.AssemblyReference.cache
+E:\C# project\1\Console Application Task Manager\obj\Debug\Console Application Task Manager.csproj.CoreCompileInputs.cache
+E:\C# project\1\Console Application Task Manager\bin\Debug\Console Application Task Manager.exe.config
+E:\C# project\1\Console Application Task Manager\bin\Debug\Console Application Task Manager.exe
+E:\C# project\1\Console Application Task Manager\bin\Debug\Console Application Task Manager.pdb
+E:\C# project\1\Console Application Task Manager\obj\Debug\Console Application Task Manager.exe
+E:\C# project\1\Console Application Task Manager\obj\Debug\Console Application Task Manager.pdb
