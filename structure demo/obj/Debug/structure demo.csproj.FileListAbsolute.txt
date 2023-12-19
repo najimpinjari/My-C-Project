@@ -1,0 +1,7 @@
+E:\C# project\1\structure demo\bin\Debug\structure demo.exe.config
+E:\C# project\1\structure demo\bin\Debug\structure demo.exe
+E:\C# project\1\structure demo\bin\Debug\structure demo.pdb
+E:\C# project\1\structure demo\obj\Debug\structure demo.csproj.AssemblyReference.cache
+E:\C# project\1\structure demo\obj\Debug\structure demo.csproj.CoreCompileInputs.cache
+E:\C# project\1\structure demo\obj\Debug\structure demo.exe
+E:\C# project\1\structure demo\obj\Debug\structure demo.pdb
