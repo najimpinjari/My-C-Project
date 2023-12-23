@@ -1,0 +1,7 @@
+E:\C# project\1\multiplication of three numbers\bin\Debug\multiplication of three numbers.exe.config
+E:\C# project\1\multiplication of three numbers\bin\Debug\multiplication of three numbers.exe
+E:\C# project\1\multiplication of three numbers\bin\Debug\multiplication of three numbers.pdb
+E:\C# project\1\multiplication of three numbers\obj\Debug\multiplication of three numbers.csproj.AssemblyReference.cache
+E:\C# project\1\multiplication of three numbers\obj\Debug\multiplication of three numbers.csproj.CoreCompileInputs.cache
+E:\C# project\1\multiplication of three numbers\obj\Debug\multiplication of three numbers.exe
+E:\C# project\1\multiplication of three numbers\obj\Debug\multiplication of three numbers.pdb
