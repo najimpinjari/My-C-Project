@@ -1,0 +1,7 @@
+E:\C# project\1\Average of numbers\bin\Debug\Average of numbers.exe.config
+E:\C# project\1\Average of numbers\bin\Debug\Average of numbers.exe
+E:\C# project\1\Average of numbers\bin\Debug\Average of numbers.pdb
+E:\C# project\1\Average of numbers\obj\Debug\Average of numbers.csproj.AssemblyReference.cache
+E:\C# project\1\Average of numbers\obj\Debug\Average of numbers.csproj.CoreCompileInputs.cache
+E:\C# project\1\Average of numbers\obj\Debug\Average of numbers.exe
+E:\C# project\1\Average of numbers\obj\Debug\Average of numbers.pdb
