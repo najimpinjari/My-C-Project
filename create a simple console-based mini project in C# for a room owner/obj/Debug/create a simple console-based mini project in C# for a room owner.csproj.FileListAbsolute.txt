@@ -1,0 +1,7 @@
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\bin\Debug\create a simple console-based mini project in C# for a room owner.exe.config
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\bin\Debug\create a simple console-based mini project in C# for a room owner.exe
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\bin\Debug\create a simple console-based mini project in C# for a room owner.pdb
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\obj\Debug\create a simple console-based mini project in C# for a room owner.csproj.AssemblyReference.cache
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\obj\Debug\create a simple console-based mini project in C# for a room owner.csproj.CoreCompileInputs.cache
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\obj\Debug\create a simple console-based mini project in C# for a room owner.exe
+E:\C# project\1\create a simple console-based mini project in C# for a room owner\obj\Debug\create a simple console-based mini project in C# for a room owner.pdb
