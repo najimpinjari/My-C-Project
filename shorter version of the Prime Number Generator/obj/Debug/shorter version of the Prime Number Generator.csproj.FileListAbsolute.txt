@@ -1,0 +1,7 @@
+E:\C# project\1\shorter version of the Prime Number Generator\bin\Debug\shorter version of the Prime Number Generator.exe.config
+E:\C# project\1\shorter version of the Prime Number Generator\bin\Debug\shorter version of the Prime Number Generator.exe
+E:\C# project\1\shorter version of the Prime Number Generator\bin\Debug\shorter version of the Prime Number Generator.pdb
+E:\C# project\1\shorter version of the Prime Number Generator\obj\Debug\shorter version of the Prime Number Generator.csproj.AssemblyReference.cache
+E:\C# project\1\shorter version of the Prime Number Generator\obj\Debug\shorter version of the Prime Number Generator.csproj.CoreCompileInputs.cache
+E:\C# project\1\shorter version of the Prime Number Generator\obj\Debug\shorter version of the Prime Number Generator.exe
+E:\C# project\1\shorter version of the Prime Number Generator\obj\Debug\shorter version of the Prime Number Generator.pdb
