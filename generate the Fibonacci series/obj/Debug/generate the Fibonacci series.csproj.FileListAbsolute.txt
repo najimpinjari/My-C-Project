@@ -1,0 +1,7 @@
+E:\C# project\1\generate the Fibonacci series\bin\Debug\generate the Fibonacci series.exe.config
+E:\C# project\1\generate the Fibonacci series\bin\Debug\generate the Fibonacci series.exe
+E:\C# project\1\generate the Fibonacci series\bin\Debug\generate the Fibonacci series.pdb
+E:\C# project\1\generate the Fibonacci series\obj\Debug\generate the Fibonacci series.csproj.AssemblyReference.cache
+E:\C# project\1\generate the Fibonacci series\obj\Debug\generate the Fibonacci series.csproj.CoreCompileInputs.cache
+E:\C# project\1\generate the Fibonacci series\obj\Debug\generate the Fibonacci series.exe
+E:\C# project\1\generate the Fibonacci series\obj\Debug\generate the Fibonacci series.pdb
