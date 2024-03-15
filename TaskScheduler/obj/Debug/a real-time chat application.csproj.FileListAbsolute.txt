@@ -1,0 +1,2 @@
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\a real-time chat application.csproj.AssemblyReference.cache
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\a real-time chat application.csproj.CoreCompileInputs.cache

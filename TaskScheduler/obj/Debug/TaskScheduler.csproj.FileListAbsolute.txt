@@ -1,0 +1,7 @@
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\TaskScheduler.csproj.AssemblyReference.cache
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\TaskScheduler.csproj.CoreCompileInputs.cache
+E:\C# project\a real-time chat application\a real-time chat application\bin\Debug\a real-time chat application.exe.config
+E:\C# project\a real-time chat application\a real-time chat application\bin\Debug\a real-time chat application.exe
+E:\C# project\a real-time chat application\a real-time chat application\bin\Debug\a real-time chat application.pdb
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\a real-time chat application.exe
+E:\C# project\a real-time chat application\a real-time chat application\obj\Debug\a real-time chat application.pdb
