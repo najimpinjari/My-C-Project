@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Lenovo\source\repos\CoreStudy\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
