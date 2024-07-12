@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Lenovo\source\repos\CoreStudy\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
