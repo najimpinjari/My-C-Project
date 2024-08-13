@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Interview_day_4\bin\Debug\Interview_day_4.exe.config
+C:\Users\Lenovo\source\repos\Interview_day_4\bin\Debug\Interview_day_4.exe
+C:\Users\Lenovo\source\repos\Interview_day_4\bin\Debug\Interview_day_4.pdb
+C:\Users\Lenovo\source\repos\Interview_day_4\obj\Debug\Interview_day_4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Interview_day_4\obj\Debug\Interview_day_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Interview_day_4\obj\Debug\Interview_day_4.exe
+C:\Users\Lenovo\source\repos\Interview_day_4\obj\Debug\Interview_day_4.pdb
