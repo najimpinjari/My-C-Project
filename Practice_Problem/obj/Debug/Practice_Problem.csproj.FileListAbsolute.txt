@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Practice_Problem\bin\Debug\Practice_Problem.exe.config
+C:\Users\Lenovo\source\repos\Practice_Problem\bin\Debug\Practice_Problem.exe
+C:\Users\Lenovo\source\repos\Practice_Problem\bin\Debug\Practice_Problem.pdb
+C:\Users\Lenovo\source\repos\Practice_Problem\obj\Debug\Practice_Problem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practice_Problem\obj\Debug\Practice_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice_Problem\obj\Debug\Practice_Problem.exe
+C:\Users\Lenovo\source\repos\Practice_Problem\obj\Debug\Practice_Problem.pdb
